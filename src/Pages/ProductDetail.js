@@ -99,7 +99,7 @@ const ProductDetail = () => {
                         <h6> Upgrade and value for money</h6>
                         <h6> The product is Good </h6>
                         <h6> Feels good ans serves its purpose and value for the money</h6>
-                        <h6>  git commit -m "first commit"Very nice product </h6> </div>
+                        <h6> Very nice product </h6> </div>
                     {/* <Row style={{ marginTop: 20 }}>
                         <Col md={6}>
                             <h2>Reviews</h2>
